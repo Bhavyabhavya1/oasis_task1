@@ -1,0 +1,67 @@
+
+.nav{
+    height:40px;
+    width:60px;
+
+}
+.bg-container{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5f7TOtaQ6vKNmddvtp1J-1cPfsy-_QCzJ1Q&usqp=CAU");
+    height:100vh;
+    width:100vw;
+    background-size:cover;
+}
+h2{
+    font-size:60px;
+    font-weight:bold;
+    color:#413535;
+    padding:10px;
+    margin:10px;
+}
+h1{
+    font-size:30px;
+    
+    color:#f7b751;
+    padding:10px;
+    margin:10px;
+    font-style:italic;
+}
+.container{
+    background-color:rgb(244, 196, 133);
+    background-size:cover;
+}
+.image{
+    height:190px;
+    width:49%x;
+}
+h3{
+    font-size:30px;
+    color:black;
+    text-align:center;
+    padding:10px;
+    
+}
+.kid{
+    width:100%;
+    height:60vh;
+}
+.kidh{
+    font-size:x-large;
+    color:black;
+    font-weight:bold;
+    text-align:center;
+}
+.card1{
+    height:120px;
+    width:120px;
+    padding:10px;
+}
+.image1{
+    height:100px;
+    width: 100px;
+
+}
+.image3{
+    height:200px;
+    width:100px;
+
+}
